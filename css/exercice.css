@@ -1,5 +1,12 @@
 /* 1. exercice-flex */
+.exercice-flex .container {
+  display: flex;
+}
 
+/* 1. exercice-flex */
+.container {
+  display: flex;
+}
 
 /* 2. exercice-order-1 */
 
