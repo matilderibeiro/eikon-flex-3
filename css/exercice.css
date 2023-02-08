@@ -16,6 +16,15 @@
 
 /* 3. exercice-order-2 */
 
+.exercice-order-2 .element-yellow {
+  order: -1;
+}
+.exercice-order-2 .container {
+  flex-direction: column;
+}
+.exercice-order-2 .container {
+ margin: auto;
+}
 
 /* 4. exercice-order-3 */
 
